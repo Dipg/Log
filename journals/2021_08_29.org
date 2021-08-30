@@ -1,37 +1,12 @@
 * Comida #kanban
-** Sopa
-** Lentejas
-** Pure
-** sd
-** sa
-** das
-** da
-** sd
-** as
-** d
-** sd
-** as
-** s
-** da
-** sda
-** das
-** asd
-** as
-** da
-** sd
-** asd
-** jd
-** gjgf
-** ghj
-** a
-** as
-** as
-** asas
-**
-**
-**
+** Sopa con versira crudas
+** Lent
+** Puro no podemos cambiar
+** Comida segura de lo que se espera
 *
-* Mas #Blocks
-** Cosa
-** rtemas
-**
+* Mas #kanban-free
+** dasd
+** sa
+** d
+** ada
+** asdas
