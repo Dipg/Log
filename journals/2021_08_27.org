@@ -1,8 +1,38 @@
 * Prueba de Git para paper
-** Interesant
+** Interesante
 *
-* [[draws/2021-08-27-14-49-59.excalidraw]]
+* {{query }}
 *
-* El dibujo anterior es chevere
-* [[draws/2021-08-27-14-51-26.excalidraw]]
+* DONE Pagina web
+:PROPERTIES:
+:doing: 1630094040308
+:done: 1630118667694
+:END:
+* DONE Descanso 
+:PROPERTIES:
+:done: 1630094139390
+:doing: 1630094047947
+:todo: 1630094137196
+:END:
+*
+*
+*
+# Nueva Información
+* Commida
+* ### Comentario
+**
+** Comi
+*
+* #page
+** Comida
+** Gatos
+*
+* Esto es Comida #page
+* Consumo de sal #page
+*
+*
+* {{query [[page]]}}
+:PROPERTIES:
+:query-table: true
+:END:
 *
