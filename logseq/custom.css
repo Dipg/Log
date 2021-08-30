@@ -1,3 +1,6 @@
+/* css kanban block view for child blocks by cannibalox v20210220 */
+/* use: inline tag #kanban, #kanban-small or #kanban-wXXX    */
+/* try:  #kanban-w200,#kanban-w300, #kanban-w400             */
 /* columns view css mod by cannibalox v0.2  20210131 */
 /* SETTINGS: adjust width of the page and cards below*/
 
@@ -18,31 +21,29 @@
 	.foldable-title {
 		max-width: var(--main-container-width);
 		}   
-	div[level="2"]{
-		display:inline-block;
-		width: var(--mod-cards-width); 
-		position:absolute;
-		top: 10px;
-		vertical-align: top;
-		margin-bottom: 20px;
+
+
+div[data-refs-self*="kanban"] > .block-children {
+	display: inline-block;
+	top: 10px;
+	vertical-align: top;
+	margin: 10px;
+  	margin-bottom: 20px;
 	}
-	.embed-block .ls-block {
-		display: inline;
+div[data-refs-self*="kanban"] >.block-children > div {
+	display: inline-block;
+	width: var(--mod-cards-width); 
+	padding-right: 3px;
 	}
 
-/* ============================== */
-/* === tweak layout margins  ==== */
-	
 .blocks-container,.doc-mode {
 		margin: 0px 0;
 	}
 
-/* ============================== */
-/* ======== cards look ========== */
-	
-div[level="2"]{
+
+div[data-refs-self*="kanban"]>.block-children > div {
 		box-shadow: 2px 2px 3px #0000003b;
-		border: 1px solid black;
+		
 		border-radius: 6px;
 		background-color: var(--ls-tertiary-background-color);
 		margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
@@ -50,7 +51,7 @@ div[level="2"]{
 	}
 	.block-children .ls-block {
 		border: 0px solid var(--ls-secondary-text-color);
-		margin: 10px;
+		margin: 0px;
 	}
 	.ls-block {
 		margin: 0px 12px 0px -2px;
