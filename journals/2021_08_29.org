@@ -30,25 +30,7 @@
 ** e
 ** re
 ** rter
-** tertertert
-** ertertert
-** rtert
-** ert
-** ert
-** ert
-** ertertertertert
-** ertertertertertertert
-** ertert
-** erdas
-* Revisar #kanban-d
-** <<<<<<< HEAD
-** sosldfsdfsdfsdf
-** gjkyk
-** jlh
-**
-=======
-** sosldfsdfsdfsdd
->>>>>>> df5dd0ab6b89db1e71bdc94cc104f588c0ea8ad0
+** t
 *
 * Como se realizo
 * Mas de lo que imaginas
