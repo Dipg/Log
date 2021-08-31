@@ -1,4 +1,5 @@
-* Comida #kanban
+* Comida #kanban-gallery
+**
 ** Sopa con versira crudas
 ** Lent
 ** Puro no podemos cambiar
