@@ -977,5 +977,5 @@ div[data-refs-self*="kanban-d"] > .block-children {
 div[data-refs-self*="kanban-d"] >.block-children > div {
 	display: inline-block;
 	width: var(--mod-cards-width); 
-	padding-right: 3px;
+	padding-right: 2px;
 	}
