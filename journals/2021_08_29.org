@@ -8,7 +8,15 @@
 ** sa
 ** d
 ** ada
-** asdas
+** aster
+** te
+** rt
+** ert
+** e
+** re
+** rter
+** tertertert
+** das
 * Revisar #kanban-d
 :PROPERTIES:
 :END:
