@@ -8,6 +8,8 @@
 ** Comida segura de lo que se espera
 *
 * Mas #kanban-free
+:PROPERTIES:
+:END:
 ** dasd
 ** sa
 ** d
