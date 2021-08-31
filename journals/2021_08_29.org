@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 * Comida #kanban
 :PROPERTIES:
 :collapsed: true
 :END:
+=======
+* Comida #kanban-gallery
+**
+>>>>>>> 44f410287b6a5c9d5f1e1a4ad7f97f7da8e1d5c2
 ** Sopa con versira crudas
 ** Lent
 ** Puro no podemos cambiar
