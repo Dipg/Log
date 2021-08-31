@@ -351,6 +351,16 @@ html.is-electron.is-mac .cp__header {
 /* ==== columns view layout ==== */
 /* ====================-======== */
 
+
+
+:root {
+  --main-container-width : 800px; 
+  --mod-cards-width: 200px;
+  }  
+
+
+
+
 	.cp__sidebar-main-content {
 			padding: 2rem 1.5rem;
 			margin: 0;
@@ -360,6 +370,14 @@ html.is-electron.is-mac .cp__header {
 	.foldable-title {
 		max-width: var(--main-container-width);
 		}   
+
+
+
+
+
+
+
+
 
 
 div[data-refs-self*="kanban-gallery"] > .block-children {
