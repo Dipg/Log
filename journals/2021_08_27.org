@@ -1,17 +1,1 @@
 * ### Comentario
-**
-** Comi
-*
-* #page
-** Comida
-** Gatos
-*
-* Esto es Comida #page
-* Consumo de sal #page
-*
-*
-* {{query [[page]]}}
-:PROPERTIES:
-:query-table: true
-:END:
-*
