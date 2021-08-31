@@ -1,4 +1,3 @@
-* <<<<<<< HEAD
 *
 * LOL #kanban-gallery
 ** asdas
