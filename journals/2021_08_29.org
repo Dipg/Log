@@ -47,9 +47,6 @@
 ** sosl
 ** sd
 ** sdsdsd
-** sd
-** s
-**
 ** rt
 ** e djk
 ** j
