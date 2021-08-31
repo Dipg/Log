@@ -5,3 +5,7 @@ file-path:: ../assets/Una_discusión_sobre_las_TD_Mendieta_versión_preliminar_1
   ls-type:: annotation
   hl-page:: 1
   id:: 612e27bd-71ed-4006-9ef7-8bf746b21c18
+- SegúnSala  i  Martin  (2000) los  postulados  del  modelo  neoclásico sientan  las  bases  metodológicas utilizadas   tanto   por las   teorías   del   crecimiento   económico   posteriores,   así   como   por   toda   la macroeconomía  moderna;  lo  que  hace,  sin  duda,  que  hayaalcanzandouna  enorme  influencia  académica que  perdura  hasta  hoy. Sin  embargo,fuertes  críticasse  han  dadoen  torno  a  esta  visión,  que  pueden  ser separadas en al menostres aspecto
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 612e27d0-26f6-41df-9aae-085b81784ace
