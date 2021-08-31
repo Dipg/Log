@@ -1,5 +1,6 @@
 *
 * LOL #kanban-gallery
+**
 ** asdas
 ** asda
 ** asdas
@@ -17,8 +18,7 @@
 ** asd
 ** as
 * Mas #kanban-free
-:PROPERTIES:
-:END:
+**
 ** dasd
 ** sa
 ** d
