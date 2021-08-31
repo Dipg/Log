@@ -1,4 +1,7 @@
 * Comida #kanban
+:PROPERTIES:
+:collapsed: true
+:END:
 ** Sopa con versira crudas
 ** Lent
 ** Puro no podemos cambiar
