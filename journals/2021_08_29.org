@@ -41,9 +41,7 @@
 ** ertert
 ** erdas
 * Revisar #kanban-d
-:PROPERTIES:
-:END:
-<<<<<<< HEAD
+** <<<<<<< HEAD
 ** sosldfsdfsdfsdf
 ** gjkyk
 ** jlh
