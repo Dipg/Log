@@ -44,7 +44,9 @@
 * Revisar #kanban-d
 :PROPERTIES:
 :END:
-** sosl
+** sosldfsdfsdfsdf
+** dfgdfgdfgdfgdfgdf
+**
 *
 * Como se realizo
 * Mas de lo que imaginas
