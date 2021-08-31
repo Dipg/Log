@@ -1,6 +1,10 @@
 * <<<<<<< HEAD
 *
-* LOL
+* LOL #kanban-gallery
+** asdas
+** asda
+** sd
+** a
 * Mas #kanban-free
 :PROPERTIES:
 :END:
