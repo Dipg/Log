@@ -15,7 +15,6 @@
 ** asdas
 * Revisar #kanban-d
 :PROPERTIES:
-:collapsed: true
 :END:
 ** sosl
 ** sd
