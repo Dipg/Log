@@ -43,10 +43,14 @@
 * Revisar #kanban-d
 :PROPERTIES:
 :END:
+<<<<<<< HEAD
 ** sosldfsdfsdfsdf
 ** gjkyk
 ** jlh
 **
+=======
+** sosldfsdfsdfsdd
+>>>>>>> df5dd0ab6b89db1e71bdc94cc104f588c0ea8ad0
 *
 * Como se realizo
 * Mas de lo que imaginas
