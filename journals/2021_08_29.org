@@ -47,9 +47,6 @@
 ** sosl
 ** sd
 ** sdsdsd
-** rt
-** e djk
-** j
 *
 * Como se realizo
 * Mas de lo que imaginas
