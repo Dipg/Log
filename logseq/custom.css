@@ -1,9 +1,9 @@
+@charset "UTF-8";
+@import url("https://cdn.jsdelivr.net/npm/@ibm/plex@4.0.2/css/ibm-plex.min.css?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+/* ****************************
+************** Root ***********
+*******************************/
 :root {
-<<<<<<< HEAD
-  --main-container-width : 800px; 
-  --mod-cards-width: 252px;
-  }  
-=======
   --ls-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
     "Segoe UI Emoji", "Segoe UI Symbol";
   --ls-main-content-max-width: 840px;
@@ -899,85 +899,84 @@ html ::-webkit-scrollbar {
 		--main-container-width : 800px; 
 		--mod-cards-width: 200px;
 		}  
->>>>>>> f4f1103cb7c2e35f26521e751e7027ea54e9df75
 
 
 /* ============================= */
 /* ==== columns view layout ==== */
 /* ====================-======== */
 
-.cp__sidebar-main-content {
-    padding: 2rem 1.5rem;
-    margin: 0;
-    max-width: var(--main-container-width);
-  }
+	.cp__sidebar-main-content {
+			padding: 2rem 1.5rem;
+			margin: 0;
+			max-width: var(--main-container-width);
+		}
 
-.foldable-title {
-  max-width: var(--main-container-width);
-  }   
+	.foldable-title {
+		max-width: var(--main-container-width);
+		}   
 
 
 div[data-refs-self*="kanban-gallery"] > .block-children {
-display: inline-block;
-top: 10px;
-vertical-align: top;
-margin: 10px;
-  margin-bottom: 20px;
-}
+	display: inline-block;
+	top: 10px;
+	vertical-align: top;
+	margin: 10px;
+  	margin-bottom: 20px;
+	}
 div[data-refs-self*="kanban-gallery"] >.block-children > div {
-display: inline-block;
-width: var(--mod-cards-width); 
-padding-right: 3px;
-}
+	display: inline-block;
+	width: var(--mod-cards-width); 
+	padding-right: 3px;
+	}
 
 .blocks-container,.doc-mode {
-  margin: 0px 0;
-}
+		margin: 0px 0;
+	}
 
 
 
 div[data-refs-self*="kanban"]>.block-children > div {
-  box-shadow: 2px 2px 3px #0000003b;
-  
-  border-radius: 6px;
-  background-color: var(--ls-tertiary-background-color);
-  margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
-  padding: 1em 0.5em;  /* CARDS BOARDER */
-}
-.block-children .ls-block {
-  border: 0px solid var(--ls-secondary-text-color);
-  margin: 0px;
-}
-.ls-block {
-  margin: 0px 12px 0px -2px;
-  padding: 5px 8px 0px 0px;
-}
+		box-shadow: 2px 2px 3px #0000003b;
+		
+		border-radius: 6px;
+		background-color: var(--ls-tertiary-background-color);
+		margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
+		padding: 1em 0.5em;  /* CARDS BOARDER */
+	}
+	.block-children .ls-block {
+		border: 0px solid var(--ls-secondary-text-color);
+		margin: 0px;
+	}
+	.ls-block {
+		margin: 0px 12px 0px -2px;
+		padding: 5px 8px 0px 0px;
+	}
 
 
 
 
 div[data-refs-self*="kanban-free"] > .block-children {
-display: inline-block;
-top: 10px;
-vertical-align: top;
-margin: 10px;
-  margin-bottom: 20px;
-}
+	display: inline-block;
+	top: 10px;
+	vertical-align: top;
+	margin: 10px;
+  	margin-bottom: 20px;
+	}
 div[data-refs-self*="kanban-free"] >.block-children > div {
-display: inline-block;
-  width: var(--mod-cards-widtha); 	
-padding-right: 3px;
-}
+	display: inline-block;
+ 	 width: var(--mod-cards-widtha); 	
+	padding-right: 3px;
+	}
 
 div[data-refs-self*="kanban-d"] > .block-children {
-display: inline-flex;
-top: 10px;
-vertical-align: top;
-margin: 10px;
-  margin-bottom: 20px;
-}
+	display: inline-flex;
+	top: 10px;
+	vertical-align: top;
+	margin: 10px;
+  	margin-bottom: 20px;
+	}
 div[data-refs-self*="kanban-d"] >.block-children > div {
-display: inline-block;
-width: var(--mod-cards-width); 
-padding-right: 3px;
-}
+	display: inline-block;
+	width: var(--mod-cards-width); 
+	padding-right: 3px;
+	}
