@@ -45,8 +45,6 @@
 :PROPERTIES:
 :END:
 ** sosl
-** sd
-** sdsdsd
 *
 * Como se realizo
 * Mas de lo que imaginas
