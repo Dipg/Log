@@ -913,8 +913,7 @@ html ::-webkit-scrollbar {
 
 
 
-
-	:root {
+:root {
 		--main-container-width : 1800px; 
 		--mod-cards-width: 252px;
 		}  
@@ -934,14 +933,14 @@ html ::-webkit-scrollbar {
 		}   
 
 
-div[data-refs-self*="kanban"] > .block-children {
+div[data-refs-self*="kanban-gallery"] > .block-children {
 	display: inline-block;
 	top: 10px;
 	vertical-align: top;
 	margin: 10px;
   	margin-bottom: 20px;
 	}
-div[data-refs-self*="kanban"] >.block-children > div {
+div[data-refs-self*="kanban-gallery"] >.block-children > div {
 	display: inline-block;
 	width: var(--mod-cards-width); 
 	padding-right: 3px;
@@ -950,6 +949,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 .blocks-container,.doc-mode {
 		margin: 0px 0;
 	}
+
 
 
 div[data-refs-self*="kanban"]>.block-children > div {
@@ -969,6 +969,9 @@ div[data-refs-self*="kanban"]>.block-children > div {
 		padding: 5px 8px 0px 0px;
 	}
 
+
+
+
 div[data-refs-self*="kanban-free"] > .block-children {
 	display: inline-block;
 	top: 10px;
@@ -979,5 +982,18 @@ div[data-refs-self*="kanban-free"] > .block-children {
 div[data-refs-self*="kanban-free"] >.block-children > div {
 	display: inline-block;
  	 width: var(--mod-cards-widtha); 	
+	padding-right: 3px;
+	}
+
+div[data-refs-self*="kanban-d"] > .block-children {
+	display: inline-flex;
+	top: 10px;
+	vertical-align: top;
+	margin: 10px;
+  	margin-bottom: 20px;
+	}
+div[data-refs-self*="kanban-d"] >.block-children > div {
+	display: inline-block;
+	width: var(--mod-cards-width); 
 	padding-right: 3px;
 	}
