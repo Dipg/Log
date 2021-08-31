@@ -37,12 +37,7 @@
 ** sret
 ** ert
 ** ert
-** e
-** rt
-** ert
-** er
-** ter
-** djk
+** e djk
 ** j
 *
 * Como se realizo
