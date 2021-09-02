@@ -7,4 +7,6 @@ Sub-Tema::
 -
 -
   Nivel::
-  Habilidad
+  Habilidad::
+  Tema::
+  Sub-
