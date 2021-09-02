@@ -1,5 +1,7 @@
 Nivel:: 
-Habilidad:: 
+Habilidad:
 template:: Nivel
 tema::
 Sub-Tema::
+
+-
