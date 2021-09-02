@@ -7,4 +7,4 @@ Sub-Tema::
 -
 -
   Nivel::
-  Area
+  Habilidad
