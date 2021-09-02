@@ -1,4 +1,4 @@
-- Creación de Niveles de Conocimiento (ZKT)
+- Creación de Niveles de Conocimiento ( Método ZKT)
 -
   Nivel::
   Habilidad::
