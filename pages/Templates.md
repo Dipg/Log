@@ -1,4 +1,6 @@
-Nivel:: 
-template:: Nivel
-tema::
-Sub-Tema::
+Nivel::
+
+-
+  template:: Nivel
+  tema::
+  Sub-Tema::
